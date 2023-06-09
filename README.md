@@ -19,3 +19,11 @@ Generated DTO with: https://app.quicktype.io/
 From this URL: https://online-communities.demos.buddyboss.com/wp-json/buddyboss/v1/activity  
 From this online demo: https://online-communities.demos.buddyboss.com    
 Looking at this docs: https://www.buddyboss.com/resources/api/  
+
+
+## Env
+Tested on
+```shell
+$ dart --version
+Dart SDK version: 3.0.4 (stable) (Wed Jun 7 14:55:32 2023 +0000) on "macos_arm64"
+```
