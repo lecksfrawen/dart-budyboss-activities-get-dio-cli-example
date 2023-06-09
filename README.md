@@ -22,13 +22,21 @@ Looking at this docs: https://www.buddyboss.com/resources/api/
 
 
 ## Env
-Tested on
+Tested on macOS 
 ```shell
 $ dart --version
 Dart SDK version: 3.0.4 (stable) (Wed Jun 7 14:55:32 2023 +0000) on "macos_arm64"
 ```
 And created this repo with:
 ```shell
+brew install asdf
+asdf plugin-add dart https://github.com/patoconnor43/asdf-dart.git
+asdf install dart 3.0.4
+asdf local dart 3.0.4
+asdf info
+asdf current
+which dart
+dart --version
 dart create -t console cli
 cd dart-budyboss-activities-get-dio-cli-example/
 git init
