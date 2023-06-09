@@ -10,3 +10,5 @@ dart pub get
 ```shell
 dart run
 ```
+And while debugging, I get this:
+![image](https://github.com/lecksfrawen/dart-budyboss-activities-get-dio-cli-example/assets/303818/2aa05ee0-9126-46ce-aafd-a755826b49b7)
