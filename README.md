@@ -37,7 +37,7 @@ asdf info
 asdf current
 which dart
 dart --version
-dart create -t console cli
+dart create -t console dart-budyboss-activities-get-dio-cli-example
 cd dart-budyboss-activities-get-dio-cli-example/
 git init
 git add .
