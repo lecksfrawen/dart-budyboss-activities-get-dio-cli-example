@@ -1,0 +1,1766 @@
+[
+  {
+    "user_id": 2,
+    "name": "John",
+    "component": "activity",
+    "content": { "rendered": "" },
+    "date": "2021-07-01T06:16:54",
+    "id": 194597,
+    "link": "https://online-communities.demos.buddyboss.com/activity-feed/p/194597/",
+    "primary_item_id": 0,
+    "secondary_item_id": 0,
+    "status": "published",
+    "title": "<a href=\"https://online-communities.demos.buddyboss.com/members/john/\">John</a> posted an update",
+    "type": "activity_update",
+    "favorited": false,
+    "can_favorite": true,
+    "favorite_count": "2",
+    "can_comment": true,
+    "can_edit": false,
+    "can_delete": false,
+    "content_stripped": "",
+    "privacy": "public",
+    "activity_data": {
+      "can_edit_privacy": false,
+      "album_id": "",
+      "group_id": 0,
+      "group_name": "",
+      "folder_id": 0,
+      "group_avatar": "",
+      "link_image_index_save": "",
+      "profile_video": true,
+      "group_video": true,
+      "profile_media": true,
+      "group_media": true,
+      "profile_document": true,
+      "group_document": true
+    },
+    "feature_media": "",
+    "preview_data": "",
+    "comment_count": 2,
+    "user_avatar": {
+      "full": "https://online-communities.demos.buddyboss.com/wp-content/sandbox185381-uploads/avatars/2/621e2ce403550-bpfull.png",
+      "thumb": "https://online-communities.demos.buddyboss.com/wp-content/sandbox185381-uploads/avatars/2/621e2ce4392dd-bpthumb.png"
+    },
+    "can_report": false,
+    "reported": false,
+    "report_button_text": false,
+    "report_type": false,
+    "bp_media_ids": null,
+    "media_gif": null,
+    "comment_upload_media": true,
+    "comment_upload_gif": true,
+    "comment_upload_emoji": true,
+    "bp_videos": [
+      {
+        "id": 388,
+        "blog_id": 1,
+        "attachment_id": 5591,
+        "user_id": 2,
+        "title": "beach",
+        "description": "",
+        "album_id": 1,
+        "group_id": 0,
+        "activity_id": 194597,
+        "hide_activity_actions": false,
+        "privacy": "public",
+        "menu_order": 0,
+        "date_created": "2021-07-01 06:19:53",
+        "attachment_data": {
+          "meta": { "mime_type": "video/mp4", "length_formatted": "0:13" },
+          "full": "https://online-communities.demos.buddyboss.com/wp-content/sandbox185381-uploads/bb-platform-previews/d06e1cb582a454a24a131af1d5ef6d85/d5e7baaeacbc7b5cae5a36e59ab7074f",
+          "thumb": "https://online-communities.demos.buddyboss.com/wp-content/sandbox185381-uploads/bb-platform-previews/d06e1cb582a454a24a131af1d5ef6d85/9ad39c8a358dc8280117a575a73c1621",
+          "activity_thumb": "https://online-communities.demos.buddyboss.com/wp-content/sandbox185381-uploads/bb-platform-previews/d06e1cb582a454a24a131af1d5ef6d85/4220fd33c584f363cf4ab0fe38a9e9e3",
+          "thumb_meta": {
+            "width": 1920,
+            "height": 1080,
+            "file": "bb_videos/2021/07/244ecb9b3f5e5c73efae0b6b480d30dc.jpg",
+            "sizes": {
+              "bb-video-profile-album-add-thumbnail-directory-poster-image": {
+                "file": "244ecb9b3f5e5c73efae0b6b480d30dc-400x225.jpg",
+                "width": 400,
+                "height": 225,
+                "mime-type": "image/png"
+              },
+              "bb-video-poster-popup-image": {
+                "file": "244ecb9b3f5e5c73efae0b6b480d30dc-1500x844.jpg",
+                "width": 1500,
+                "height": 844,
+                "mime-type": "image/png"
+              },
+              "bb-video-activity-image": {
+                "file": "244ecb9b3f5e5c73efae0b6b480d30dc-640x360.jpg",
+                "width": 640,
+                "height": 360,
+                "mime-type": "image/png"
+              }
+            },
+            "image_meta": {
+              "aperture": "0",
+              "credit": "",
+              "camera": "",
+              "caption": "",
+              "created_timestamp": "0",
+              "copyright": "",
+              "focal_length": "0",
+              "iso": "0",
+              "shutter_speed": "0",
+              "title": "",
+              "orientation": "0",
+              "keywords": []
+            }
+          },
+          "video_user_profile_thumb": "https://online-communities.demos.buddyboss.com/wp-content/sandbox185381-uploads/bb-platform-previews/d06e1cb582a454a24a131af1d5ef6d85/9ad39c8a358dc8280117a575a73c1621",
+          "video_directory_page_thumb": "https://online-communities.demos.buddyboss.com/wp-content/sandbox185381-uploads/bb-platform-previews/d06e1cb582a454a24a131af1d5ef6d85/9ad39c8a358dc8280117a575a73c1621",
+          "media_album_cover": "https://online-communities.demos.buddyboss.com/wp-content/sandbox185381-uploads/bb-platform-previews/d06e1cb582a454a24a131af1d5ef6d85/9ad39c8a358dc8280117a575a73c1621",
+          "video_album_cover_thumb": "https://online-communities.demos.buddyboss.com/wp-content/sandbox185381-uploads/bb-platform-previews/d06e1cb582a454a24a131af1d5ef6d85/9ad39c8a358dc8280117a575a73c1621",
+          "video_add_thumbnail_thumb": "https://online-communities.demos.buddyboss.com/wp-content/sandbox185381-uploads/bb-platform-previews/d06e1cb582a454a24a131af1d5ef6d85/9ad39c8a358dc8280117a575a73c1621",
+          "video_popup_thumb": "https://online-communities.demos.buddyboss.com/wp-content/sandbox185381-uploads/bb-platform-previews/d06e1cb582a454a24a131af1d5ef6d85/d5e7baaeacbc7b5cae5a36e59ab7074f",
+          "video_activity_thumb": "https://online-communities.demos.buddyboss.com/wp-content/sandbox185381-uploads/bb-platform-previews/d06e1cb582a454a24a131af1d5ef6d85/4220fd33c584f363cf4ab0fe38a9e9e3"
+        },
+        "group_name": "",
+        "visibility": "Public",
+        "user_nicename": "john",
+        "user_login": "john",
+        "display_name": "John",
+        "url": "https://online-communities.demos.buddyboss.com/bb-video-preview/Zm9yYmlkZGVuXzU1OTE=/Zm9yYmlkZGVuXzM4OA==",
+        "download_url": "https://online-communities.demos.buddyboss.com/?attachment_id=5591&video_type=video&download_video_file=1&video_file=388",
+        "user_permissions": {
+          "download": 1,
+          "edit_privacy": 0,
+          "edit_post_privacy": 0,
+          "edit_album_privacy": 1,
+          "edit_description": 1,
+          "move": 1,
+          "delete": 1,
+          "upload_poster": 1
+        },
+        "type": "video",
+        "can_report": false,
+        "reported": false,
+        "report_button_text": "Report",
+        "report_type": "Post",
+        "_links": {
+          "self": [
+            {
+              "href": "https://online-communities.demos.buddyboss.com/wp-json/buddyboss/v1/video/388"
+            }
+          ],
+          "collection": [
+            {
+              "href": "https://online-communities.demos.buddyboss.com/wp-json/buddyboss/v1/video/"
+            }
+          ],
+          "user": [
+            {
+              "embeddable": true,
+              "href": "https://online-communities.demos.buddyboss.com/wp-json/buddyboss/v1/members/2"
+            }
+          ],
+          "activity": [
+            {
+              "embeddable": true,
+              "href": "https://online-communities.demos.buddyboss.com/wp-json/buddyboss/v1/activity/194597"
+            }
+          ]
+        }
+      }
+    ],
+    "comment_upload_video": true,
+    "bp_documents": null,
+    "comment_upload_document": true,
+    "_links": {
+      "self": [
+        {
+          "href": "https://online-communities.demos.buddyboss.com/wp-json/buddyboss/v1/activity/194597"
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://online-communities.demos.buddyboss.com/wp-json/buddyboss/v1/activity/"
+        }
+      ],
+      "user": [
+        {
+          "embeddable": true,
+          "href": "https://online-communities.demos.buddyboss.com/wp-json/buddyboss/v1/members/2"
+        }
+      ],
+      "favorite": [
+        {
+          "href": "https://online-communities.demos.buddyboss.com/wp-json/buddyboss/v1/activity/194597/favorite"
+        }
+      ]
+    }
+  },
+  {
+    "user_id": 23,
+    "name": "Adele",
+    "component": "activity",
+    "content": { "rendered": "<p>Videos from our vacation</p>\n" },
+    "date": "2021-07-01T06:15:48",
+    "id": 194593,
+    "link": "https://online-communities.demos.buddyboss.com/activity-feed/p/194593/",
+    "primary_item_id": 0,
+    "secondary_item_id": 0,
+    "status": "published",
+    "title": "<a href=\"https://online-communities.demos.buddyboss.com/members/adele/\">Adele</a> posted an update",
+    "type": "activity_update",
+    "favorited": false,
+    "can_favorite": true,
+    "favorite_count": "1",
+    "can_comment": true,
+    "can_edit": false,
+    "can_delete": false,
+    "content_stripped": "Videos from our vacation",
+    "privacy": "public",
+    "activity_data": {
+      "can_edit_privacy": true,
+      "album_id": 0,
+      "group_id": 0,
+      "group_name": "",
+      "folder_id": 0,
+      "group_avatar": "",
+      "link_image_index_save": "",
+      "profile_video": true,
+      "group_video": true,
+      "profile_media": true,
+      "group_media": true,
+      "profile_document": true,
+      "group_document": true
+    },
+    "feature_media": "",
+    "preview_data": "",
+    "comment_count": 0,
+    "user_avatar": {
+      "full": "https://online-communities.demos.buddyboss.com/wp-content/sandbox185381-uploads/avatars/23/621e2300dc4df-bpfull.png",
+      "thumb": "https://online-communities.demos.buddyboss.com/wp-content/sandbox185381-uploads/avatars/23/621e230112f8c-bpthumb.png"
+    },
+    "can_report": false,
+    "reported": false,
+    "report_button_text": "Report Post",
+    "report_type": "Post",
+    "bp_media_ids": null,
+    "media_gif": null,
+    "comment_upload_media": true,
+    "comment_upload_gif": true,
+    "comment_upload_emoji": true,
+    "bp_videos": [
+      {
+        "id": 387,
+        "blog_id": 1,
+        "attachment_id": 5584,
+        "user_id": 23,
+        "title": "city",
+        "description": "",
+        "album_id": 0,
+        "group_id": 0,
+        "activity_id": 194595,
+        "hide_activity_actions": false,
+        "privacy": "public",
+        "menu_order": 0,
+        "date_created": "2021-07-01 06:15:49",
+        "attachment_data": {
+          "meta": { "mime_type": "video/mp4", "length_formatted": "0:36" },
+          "full": "https://online-communities.demos.buddyboss.com/wp-content/sandbox185381-uploads/bb-platform-previews/d06e1cb582a454a24a131af1d5ef6d85/a310d192984e624f5364e4a0f4087172",
+          "thumb": "https://online-communities.demos.buddyboss.com/wp-content/sandbox185381-uploads/bb-platform-previews/d06e1cb582a454a24a131af1d5ef6d85/0aa0d9b40c85f919538cad02d11dd6c9",
+          "activity_thumb": "https://online-communities.demos.buddyboss.com/wp-content/sandbox185381-uploads/bb-platform-previews/d06e1cb582a454a24a131af1d5ef6d85/aa7e9e68f8212229bed871a70a9c6054",
+          "thumb_meta": {
+            "width": 1280,
+            "height": 720,
+            "file": "bb_videos/2021/07/1a9f4421b0277837989a31bdd4a0a227.jpg",
+            "filesize": 1356463,
+            "sizes": {
+              "bb-video-profile-album-add-thumbnail-directory-poster-image": {
+                "file": "1a9f4421b0277837989a31bdd4a0a227-400x225.jpg",
+                "width": 400,
+                "height": 225,
+                "mime-type": "image/png",
+                "filesize": 18836
+              },
+              "bb-video-activity-image": {
+                "file": "1a9f4421b0277837989a31bdd4a0a227-640x360.jpg",
+                "width": 640,
+                "height": 360,
+                "mime-type": "image/png",
+                "filesize": 41894
+              }
+            },
+            "image_meta": {
+              "aperture": "0",
+              "credit": "",
+              "camera": "",
+              "caption": "",
+              "created_timestamp": "0",
+              "copyright": "",
+              "focal_length": "0",
+              "iso": "0",
+              "shutter_speed": "0",
+              "title": "",
+              "orientation": "0",
+              "keywords": []
+            }
+          },
+          "video_user_profile_thumb": "https://online-communities.demos.buddyboss.com/wp-content/sandbox185381-uploads/bb-platform-previews/d06e1cb582a454a24a131af1d5ef6d85/0aa0d9b40c85f919538cad02d11dd6c9",
+          "video_directory_page_thumb": "https://online-communities.demos.buddyboss.com/wp-content/sandbox185381-uploads/bb-platform-previews/d06e1cb582a454a24a131af1d5ef6d85/0aa0d9b40c85f919538cad02d11dd6c9",
+          "media_album_cover": "https://online-communities.demos.buddyboss.com/wp-content/sandbox185381-uploads/bb-platform-previews/d06e1cb582a454a24a131af1d5ef6d85/0aa0d9b40c85f919538cad02d11dd6c9",
+          "video_album_cover_thumb": "https://online-communities.demos.buddyboss.com/wp-content/sandbox185381-uploads/bb-platform-previews/d06e1cb582a454a24a131af1d5ef6d85/0aa0d9b40c85f919538cad02d11dd6c9",
+          "video_add_thumbnail_thumb": "https://online-communities.demos.buddyboss.com/wp-content/sandbox185381-uploads/bb-platform-previews/d06e1cb582a454a24a131af1d5ef6d85/0aa0d9b40c85f919538cad02d11dd6c9",
+          "video_popup_thumb": "https://online-communities.demos.buddyboss.com/wp-content/sandbox185381-uploads/bb-platform-previews/d06e1cb582a454a24a131af1d5ef6d85/a310d192984e624f5364e4a0f4087172",
+          "video_activity_thumb": "https://online-communities.demos.buddyboss.com/wp-content/sandbox185381-uploads/bb-platform-previews/d06e1cb582a454a24a131af1d5ef6d85/aa7e9e68f8212229bed871a70a9c6054"
+        },
+        "group_name": "",
+        "visibility": "Public",
+        "user_nicename": "adele",
+        "user_login": "adele",
+        "display_name": "Adele",
+        "url": "https://online-communities.demos.buddyboss.com/bb-video-preview/Zm9yYmlkZGVuXzU1ODQ=/Zm9yYmlkZGVuXzM4Nw==",
+        "download_url": "https://online-communities.demos.buddyboss.com/?attachment_id=5584&video_type=video&download_video_file=1&video_file=387",
+        "user_permissions": {
+          "download": 1,
+          "edit_privacy": 0,
+          "edit_post_privacy": 0,
+          "edit_album_privacy": 0,
+          "edit_description": 0,
+          "move": 0,
+          "delete": 0,
+          "upload_poster": 0
+        },
+        "type": "video",
+        "can_report": false,
+        "reported": false,
+        "report_button_text": "Report",
+        "report_type": "Post",
+        "_links": {
+          "self": [
+            {
+              "href": "https://online-communities.demos.buddyboss.com/wp-json/buddyboss/v1/video/387"
+            }
+          ],
+          "collection": [
+            {
+              "href": "https://online-communities.demos.buddyboss.com/wp-json/buddyboss/v1/video/"
+            }
+          ],
+          "user": [
+            {
+              "embeddable": true,
+              "href": "https://online-communities.demos.buddyboss.com/wp-json/buddyboss/v1/members/23"
+            }
+          ],
+          "activity": [
+            {
+              "embeddable": true,
+              "href": "https://online-communities.demos.buddyboss.com/wp-json/buddyboss/v1/activity/194595"
+            }
+          ]
+        }
+      },
+      {
+        "id": 386,
+        "blog_id": 1,
+        "attachment_id": 5583,
+        "user_id": 23,
+        "title": "oceanfront",
+        "description": "",
+        "album_id": 0,
+        "group_id": 0,
+        "activity_id": 194594,
+        "hide_activity_actions": false,
+        "privacy": "public",
+        "menu_order": 1,
+        "date_created": "2021-07-01 06:15:48",
+        "attachment_data": {
+          "meta": { "mime_type": "video/mp4", "length_formatted": "0:13" },
+          "full": "https://online-communities.demos.buddyboss.com/wp-content/sandbox185381-uploads/bb-platform-previews/d06e1cb582a454a24a131af1d5ef6d85/c68e846b6b23880bad407d259c88ce98",
+          "thumb": "https://online-communities.demos.buddyboss.com/wp-content/sandbox185381-uploads/bb-platform-previews/d06e1cb582a454a24a131af1d5ef6d85/6bfb318db941dcc4119db94f33cd4c85",
+          "activity_thumb": "https://online-communities.demos.buddyboss.com/wp-content/sandbox185381-uploads/bb-platform-previews/d06e1cb582a454a24a131af1d5ef6d85/a80658d655459673d56a435d1799a7be",
+          "thumb_meta": {
+            "width": 1280,
+            "height": 720,
+            "file": "bb_videos/2021/07/9fe3d0932836dfd42a53953cb92f5834.jpg",
+            "filesize": 1733134,
+            "sizes": {
+              "bb-video-profile-album-add-thumbnail-directory-poster-image": {
+                "file": "9fe3d0932836dfd42a53953cb92f5834-400x225.jpg",
+                "width": 400,
+                "height": 225,
+                "mime-type": "image/png",
+                "filesize": 23488
+              },
+              "bb-video-activity-image": {
+                "file": "9fe3d0932836dfd42a53953cb92f5834-640x360.jpg",
+                "width": 640,
+                "height": 360,
+                "mime-type": "image/png",
+                "filesize": 54379
+              }
+            },
+            "image_meta": {
+              "aperture": "0",
+              "credit": "",
+              "camera": "",
+              "caption": "",
+              "created_timestamp": "0",
+              "copyright": "",
+              "focal_length": "0",
+              "iso": "0",
+              "shutter_speed": "0",
+              "title": "",
+              "orientation": "0",
+              "keywords": []
+            }
+          },
+          "video_user_profile_thumb": "https://online-communities.demos.buddyboss.com/wp-content/sandbox185381-uploads/bb-platform-previews/d06e1cb582a454a24a131af1d5ef6d85/6bfb318db941dcc4119db94f33cd4c85",
+          "video_directory_page_thumb": "https://online-communities.demos.buddyboss.com/wp-content/sandbox185381-uploads/bb-platform-previews/d06e1cb582a454a24a131af1d5ef6d85/6bfb318db941dcc4119db94f33cd4c85",
+          "media_album_cover": "https://online-communities.demos.buddyboss.com/wp-content/sandbox185381-uploads/bb-platform-previews/d06e1cb582a454a24a131af1d5ef6d85/6bfb318db941dcc4119db94f33cd4c85",
+          "video_album_cover_thumb": "https://online-communities.demos.buddyboss.com/wp-content/sandbox185381-uploads/bb-platform-previews/d06e1cb582a454a24a131af1d5ef6d85/6bfb318db941dcc4119db94f33cd4c85",
+          "video_add_thumbnail_thumb": "https://online-communities.demos.buddyboss.com/wp-content/sandbox185381-uploads/bb-platform-previews/d06e1cb582a454a24a131af1d5ef6d85/6bfb318db941dcc4119db94f33cd4c85",
+          "video_popup_thumb": "https://online-communities.demos.buddyboss.com/wp-content/sandbox185381-uploads/bb-platform-previews/d06e1cb582a454a24a131af1d5ef6d85/c68e846b6b23880bad407d259c88ce98",
+          "video_activity_thumb": "https://online-communities.demos.buddyboss.com/wp-content/sandbox185381-uploads/bb-platform-previews/d06e1cb582a454a24a131af1d5ef6d85/a80658d655459673d56a435d1799a7be"
+        },
+        "group_name": "",
+        "visibility": "Public",
+        "user_nicename": "adele",
+        "user_login": "adele",
+        "display_name": "Adele",
+        "url": "https://online-communities.demos.buddyboss.com/bb-video-preview/Zm9yYmlkZGVuXzU1ODM=/Zm9yYmlkZGVuXzM4Ng==",
+        "download_url": "https://online-communities.demos.buddyboss.com/?attachment_id=5583&video_type=video&download_video_file=1&video_file=386",
+        "user_permissions": {
+          "download": 1,
+          "edit_privacy": 0,
+          "edit_post_privacy": 0,
+          "edit_album_privacy": 0,
+          "edit_description": 0,
+          "move": 0,
+          "delete": 0,
+          "upload_poster": 0
+        },
+        "type": "video",
+        "can_report": false,
+        "reported": false,
+        "report_button_text": "Report",
+        "report_type": "Post",
+        "_links": {
+          "self": [
+            {
+              "href": "https://online-communities.demos.buddyboss.com/wp-json/buddyboss/v1/video/386"
+            }
+          ],
+          "collection": [
+            {
+              "href": "https://online-communities.demos.buddyboss.com/wp-json/buddyboss/v1/video/"
+            }
+          ],
+          "user": [
+            {
+              "embeddable": true,
+              "href": "https://online-communities.demos.buddyboss.com/wp-json/buddyboss/v1/members/23"
+            }
+          ],
+          "activity": [
+            {
+              "embeddable": true,
+              "href": "https://online-communities.demos.buddyboss.com/wp-json/buddyboss/v1/activity/194594"
+            }
+          ]
+        }
+      }
+    ],
+    "comment_upload_video": true,
+    "bp_documents": null,
+    "comment_upload_document": true,
+    "_links": {
+      "self": [
+        {
+          "href": "https://online-communities.demos.buddyboss.com/wp-json/buddyboss/v1/activity/194593"
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://online-communities.demos.buddyboss.com/wp-json/buddyboss/v1/activity/"
+        }
+      ],
+      "user": [
+        {
+          "embeddable": true,
+          "href": "https://online-communities.demos.buddyboss.com/wp-json/buddyboss/v1/members/23"
+        }
+      ],
+      "favorite": [
+        {
+          "href": "https://online-communities.demos.buddyboss.com/wp-json/buddyboss/v1/activity/194593/favorite"
+        }
+      ]
+    }
+  },
+  {
+    "user_id": 2,
+    "name": "John",
+    "component": "groups",
+    "content": {
+      "rendered": "<p>Sharing a document for you guys to give feedback on.</p>\n"
+    },
+    "date": "2020-06-05T06:46:18",
+    "id": 194573,
+    "link": "https://online-communities.demos.buddyboss.com/activity-feed/p/194573/",
+    "primary_item_id": 5,
+    "secondary_item_id": 0,
+    "status": "published",
+    "title": "<a href=\"https://online-communities.demos.buddyboss.com/members/john/\">John</a> posted an update in the group <a href=\"https://online-communities.demos.buddyboss.com/groups/coffee-addicts/\">Coffee Addicts</a>",
+    "type": "activity_update",
+    "favorited": false,
+    "can_favorite": true,
+    "favorite_count": 0,
+    "can_comment": true,
+    "can_edit": false,
+    "can_delete": false,
+    "content_stripped": "Sharing a document for you guys to give feedback on.",
+    "privacy": "public",
+    "activity_data": {
+      "can_edit_privacy": false,
+      "album_id": 0,
+      "group_id": 5,
+      "group_name": "Coffee Addicts",
+      "folder_id": 0,
+      "group_avatar": "https://online-communities.demos.buddyboss.com/wp-content/sandbox185381-uploads/group-avatars/5/6217b6f2a95b1-bpfull.jpg",
+      "link_image_index_save": "",
+      "profile_video": true,
+      "group_video": false,
+      "profile_media": true,
+      "group_media": false,
+      "profile_document": true,
+      "group_document": false
+    },
+    "feature_media": "",
+    "preview_data": "",
+    "comment_count": 1,
+    "user_avatar": {
+      "full": "https://online-communities.demos.buddyboss.com/wp-content/sandbox185381-uploads/avatars/2/621e2ce403550-bpfull.png",
+      "thumb": "https://online-communities.demos.buddyboss.com/wp-content/sandbox185381-uploads/avatars/2/621e2ce4392dd-bpthumb.png"
+    },
+    "can_report": false,
+    "reported": false,
+    "report_button_text": "Report Document",
+    "report_type": "Document",
+    "bp_media_ids": null,
+    "media_gif": null,
+    "comment_upload_media": false,
+    "comment_upload_gif": true,
+    "comment_upload_emoji": true,
+    "bp_videos": null,
+    "comment_upload_video": false,
+    "bp_documents": [
+      {
+        "id": 17,
+        "blog_id": 1,
+        "attachment_id": 4712,
+        "user_id": 2,
+        "title": "docs",
+        "description": "Stylesheet",
+        "type": "document",
+        "folder_id": 0,
+        "group_id": 5,
+        "activity_id": 194573,
+        "hide_activity_actions": false,
+        "privacy": "grouponly",
+        "menu_order": 0,
+        "date_created": "2020-06-05 06:46:18",
+        "date_modified": "2020-06-05 06:46:18",
+        "group_name": "Coffee Addicts",
+        "group_status": "public",
+        "visibility": "Public",
+        "count": 0,
+        "download_url": "https://online-communities.demos.buddyboss.com/?attachment=4712&document_type=document&download_document_file=1&document_file=17",
+        "extension": "css",
+        "extension_description": "CSS",
+        "svg_icon": null,
+        "filename": "docs.css",
+        "size": "2 KB",
+        "msg_preview": "<div class=\"document-text-wrap\"><div class=\"document-text\" data-extension=\"css\"><textarea class=\"document-text-file-data-hidden\" style=\"display: none;\">#buddypress .component-navigation.bp-docs-nav {\n  display: -webkit-box;\n  display: -ms-flexbox;\n  display: flex;\n  -ms-flex-flow: row wrap;\n      flex-flow: row wrap;\n}\n#buddypress .component-navigation.bp-docs-nav li.last {\n  margin-left: auto;\n}\n\n#buddypress #bp-create-doc-button {\n  padding: 10px 15px;\n  height: 36px;\n  min-height: 36px;\n  margin: 0;\n  line-height: 1;\n  font-weight: 600;\n  font-size: 13px;\n}\n\n.entry-content .doc-content {\n  border: 0;\n  padding: 0;\n}\n.entry-content form.standard-form input[type=text]#doc-title {\n  width: 100%;\n}\n\n.doc-content-wrapper &gt; div {\n  margin-bottom: 20px;\n}\n\n.add-files-button {\n  margin-top: 15px;\n}\n\n.entry-content.entry-content p.toggle-switch,\n.entry-content .toggle-switch {\n  background: #fff;\n  border: 1px solid #DEDFE2;\n  padding: 8px 4px;\n}\n\n.entry-content .toggle-content {\n  border: 1px solid #DEDFE2;\n  border-top: 0;\n}\n\nbutton#mceu_0-open {\n  min-width: 96px;\n}\n\n.doc-content td,\n.doc-content td.desc-column,\n.doc-content td.content-column {\n  padding: 20px;\n}\n\n.doc-content td:last-child {\n  padding-right: 20px;\n}\n\n#buddypress .doc-content .standard-form .html-active .button {\n  background: transparent;\n}\n\n#doc-submit-options input[type=submit] {\n  margin-right: 15px;\n}\n\n.edited-date-cell.edited-date-cell {\n  width: 170px;\n}\n\n.bp-docs .desc a,\n.bp-docs .asc a {\n  background: transparent;\n  padding: 0;\n}\n\n.bp-docs .desc a:before,\n.bp-docs .asc a:before {\n  content: '\\e861';\n  font: normal normal normal 14px/1 \"bb-icons\";\n  speak: none;\n  display: inline-block;\n  text-decoration: inherit;\n  text-transform: none;\n}\n\n.bp-docs .asc a:before {\n  content: '\\e864';\n}\n\n.doc-excerpt {\n  word-break: break-word;\n}\n</textarea></div><div class=\"document-expand\"><a href=\"#\" class=\"document-expand-anchor\"><i class=\"bb-icon-l bb-icon-plus document-icon-plus\"></i> Click to expand</a></div></div>",
+        "attachment_data": {
+          "full": "",
+          "thumb": "",
+          "activity_thumb": "",
+          "activity_thumb_pdf": "",
+          "video_symlink": null,
+          "meta": []
+        },
+        "user_nicename": "john",
+        "user_login": "john",
+        "display_name": "John",
+        "user_permissions": {
+          "download": 1,
+          "copy_download_link": 1,
+          "edit_description": 1,
+          "move": 1,
+          "delete": 1
+        },
+        "can_report": false,
+        "report_button_text": "Report Document",
+        "report_type": "Document",
+        "reported": false,
+        "_links": {
+          "self": [
+            {
+              "href": "https://online-communities.demos.buddyboss.com/wp-json/buddyboss/v1/document/17"
+            }
+          ],
+          "collection": [
+            {
+              "href": "https://online-communities.demos.buddyboss.com/wp-json/buddyboss/v1/document/"
+            }
+          ],
+          "user": [
+            {
+              "embeddable": true,
+              "href": "https://online-communities.demos.buddyboss.com/wp-json/buddyboss/v1/members/2"
+            }
+          ],
+          "activity": [
+            {
+              "embeddable": true,
+              "href": "https://online-communities.demos.buddyboss.com/wp-json/buddyboss/v1/activity/194573"
+            }
+          ],
+          "group": [
+            {
+              "embeddable": true,
+              "href": "https://online-communities.demos.buddyboss.com/wp-json/buddyboss/v1/groups/5"
+            }
+          ]
+        }
+      }
+    ],
+    "comment_upload_document": false,
+    "_links": {
+      "self": [
+        {
+          "href": "https://online-communities.demos.buddyboss.com/wp-json/buddyboss/v1/activity/194573"
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://online-communities.demos.buddyboss.com/wp-json/buddyboss/v1/activity/"
+        }
+      ],
+      "user": [
+        {
+          "embeddable": true,
+          "href": "https://online-communities.demos.buddyboss.com/wp-json/buddyboss/v1/members/2"
+        }
+      ],
+      "favorite": [
+        {
+          "href": "https://online-communities.demos.buddyboss.com/wp-json/buddyboss/v1/activity/194573/favorite"
+        }
+      ],
+      "group": [
+        {
+          "embeddable": true,
+          "href": "https://online-communities.demos.buddyboss.com/wp-json/buddyboss/v1/groups/5"
+        }
+      ]
+    }
+  },
+  {
+    "user_id": 2,
+    "name": "John",
+    "component": "xprofile",
+    "content": { "rendered": "" },
+    "date": "2020-06-05T06:37:41",
+    "id": 194572,
+    "link": "https://online-communities.demos.buddyboss.com/activity-feed/p/194572/",
+    "primary_item_id": 0,
+    "secondary_item_id": 0,
+    "status": "published",
+    "title": "<a href=\"https://online-communities.demos.buddyboss.com/members/john/profile/\">John</a> updated his profile",
+    "type": "updated_profile",
+    "favorited": false,
+    "can_favorite": true,
+    "favorite_count": "2",
+    "can_comment": true,
+    "can_edit": false,
+    "can_delete": false,
+    "content_stripped": "",
+    "privacy": "public",
+    "activity_data": {
+      "can_edit_privacy": true,
+      "album_id": 0,
+      "group_id": 0,
+      "group_name": "",
+      "folder_id": 0,
+      "group_avatar": "",
+      "link_image_index_save": "",
+      "profile_video": true,
+      "group_video": true,
+      "profile_media": true,
+      "group_media": true,
+      "profile_document": true,
+      "group_document": true
+    },
+    "feature_media": "",
+    "preview_data": "",
+    "comment_count": 0,
+    "user_avatar": {
+      "full": "https://online-communities.demos.buddyboss.com/wp-content/sandbox185381-uploads/avatars/2/621e2ce403550-bpfull.png",
+      "thumb": "https://online-communities.demos.buddyboss.com/wp-content/sandbox185381-uploads/avatars/2/621e2ce4392dd-bpthumb.png"
+    },
+    "can_report": false,
+    "reported": false,
+    "report_button_text": false,
+    "report_type": false,
+    "bp_media_ids": null,
+    "media_gif": null,
+    "comment_upload_media": true,
+    "comment_upload_gif": true,
+    "comment_upload_emoji": true,
+    "bp_videos": null,
+    "comment_upload_video": true,
+    "bp_documents": null,
+    "comment_upload_document": true,
+    "_links": {
+      "self": [
+        {
+          "href": "https://online-communities.demos.buddyboss.com/wp-json/buddyboss/v1/activity/194572"
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://online-communities.demos.buddyboss.com/wp-json/buddyboss/v1/activity/"
+        }
+      ],
+      "user": [
+        {
+          "embeddable": true,
+          "href": "https://online-communities.demos.buddyboss.com/wp-json/buddyboss/v1/members/2"
+        }
+      ],
+      "favorite": [
+        {
+          "href": "https://online-communities.demos.buddyboss.com/wp-json/buddyboss/v1/activity/194572/favorite"
+        }
+      ]
+    }
+  },
+  {
+    "user_id": 2,
+    "name": "John",
+    "component": "activity",
+    "content": { "rendered": "" },
+    "date": "2020-06-05T06:34:24",
+    "id": 194570,
+    "link": "https://online-communities.demos.buddyboss.com/activity-feed/p/194570/",
+    "primary_item_id": 0,
+    "secondary_item_id": 0,
+    "status": "published",
+    "title": "<a href=\"https://online-communities.demos.buddyboss.com/members/john/\">John</a> posted an update",
+    "type": "activity_update",
+    "favorited": false,
+    "can_favorite": true,
+    "favorite_count": "2",
+    "can_comment": true,
+    "can_edit": false,
+    "can_delete": false,
+    "content_stripped": "",
+    "privacy": "public",
+    "activity_data": {
+      "can_edit_privacy": true,
+      "album_id": 0,
+      "group_id": 0,
+      "group_name": "",
+      "folder_id": 0,
+      "group_avatar": "",
+      "link_image_index_save": "",
+      "profile_video": true,
+      "group_video": true,
+      "profile_media": true,
+      "group_media": true,
+      "profile_document": true,
+      "group_document": true
+    },
+    "feature_media": "",
+    "preview_data": "",
+    "comment_count": 2,
+    "user_avatar": {
+      "full": "https://online-communities.demos.buddyboss.com/wp-content/sandbox185381-uploads/avatars/2/621e2ce403550-bpfull.png",
+      "thumb": "https://online-communities.demos.buddyboss.com/wp-content/sandbox185381-uploads/avatars/2/621e2ce4392dd-bpthumb.png"
+    },
+    "can_report": false,
+    "reported": false,
+    "report_button_text": "Report Document",
+    "report_type": "Document",
+    "bp_media_ids": null,
+    "media_gif": null,
+    "comment_upload_media": true,
+    "comment_upload_gif": true,
+    "comment_upload_emoji": true,
+    "bp_videos": null,
+    "comment_upload_video": true,
+    "bp_documents": [
+      {
+        "id": 16,
+        "blog_id": 1,
+        "attachment_id": 4709,
+        "user_id": 2,
+        "title": "Miele-March-to-August-2020",
+        "description": "Interesting magazine",
+        "type": "document",
+        "folder_id": 0,
+        "group_id": 0,
+        "activity_id": 194570,
+        "hide_activity_actions": false,
+        "privacy": "public",
+        "menu_order": 0,
+        "date_created": "2020-06-05 06:34:25",
+        "date_modified": "2020-06-05 06:34:25",
+        "group_name": "",
+        "group_status": "",
+        "visibility": "Public",
+        "count": 0,
+        "download_url": "https://online-communities.demos.buddyboss.com/?attachment=4709&document_type=document&download_document_file=1&document_file=16",
+        "extension": "pdf",
+        "extension_description": "PDF",
+        "svg_icon": null,
+        "filename": "Miele-March-to-August-2020.pdf",
+        "size": "5 MB",
+        "msg_preview": "<div class=\"document-preview-wrap\"><img src=\"https://online-communities.demos.buddyboss.com/wp-content/sandbox185381-uploads/bb-platform-previews/43ebd646a98dab403e0fe006ad430d68/6067df63e484d69437c9e33138bb6afb\" alt=\"\" /></div>",
+        "attachment_data": {
+          "full": "https://online-communities.demos.buddyboss.com/wp-content/sandbox185381-uploads/bb-platform-previews/43ebd646a98dab403e0fe006ad430d68/a30e09c3dc4a2926854480a9079eccac",
+          "thumb": "https://online-communities.demos.buddyboss.com/wp-content/sandbox185381-uploads/bb-platform-previews/43ebd646a98dab403e0fe006ad430d68/6067df63e484d69437c9e33138bb6afb",
+          "activity_thumb": "https://online-communities.demos.buddyboss.com/wp-content/sandbox185381-uploads/bb-platform-previews/43ebd646a98dab403e0fe006ad430d68/6067df63e484d69437c9e33138bb6afb",
+          "activity_thumb_pdf": "https://online-communities.demos.buddyboss.com/wp-content/sandbox185381-uploads/bb-platform-previews/43ebd646a98dab403e0fe006ad430d68/6d594c27458f74d16d48438805311200",
+          "video_symlink": null,
+          "meta": {
+            "sizes": {
+              "full": {
+                "file": "Miele-March-to-August-2020-pdf-2.jpg",
+                "width": 1058,
+                "height": 1497,
+                "mime-type": "image/jpeg"
+              },
+              "medium": {
+                "file": "Miele-March-to-August-2020-pdf-2-212x300.jpg",
+                "width": 212,
+                "height": 300,
+                "mime-type": "image/jpeg"
+              },
+              "large": {
+                "file": "Miele-March-to-August-2020-pdf-2-724x1024.jpg",
+                "width": 724,
+                "height": 1024,
+                "mime-type": "image/jpeg"
+              },
+              "thumbnail": {
+                "file": "Miele-March-to-August-2020-pdf-2-106x150.jpg",
+                "width": 106,
+                "height": 150,
+                "mime-type": "image/jpeg"
+              },
+              "bb-document-pdf-preview-activity-image": {
+                "file": "Miele-March-to-August-2020-pdf-2-424x600.jpg",
+                "width": 424,
+                "height": 600,
+                "mime-type": "image/jpeg"
+              },
+              "bb-document-pdf-image-popup-image": {
+                "file": "Miele-March-to-August-2020-pdf-2-636x900.jpg",
+                "width": 636,
+                "height": 900,
+                "mime-type": "image/jpeg"
+              },
+              "bb-document-image-preview-activity-image": {
+                "file": "Miele-March-to-August-2020-pdf-2-177x250.jpg",
+                "width": 177,
+                "height": 250,
+                "mime-type": "image/jpeg"
+              }
+            }
+          }
+        },
+        "user_nicename": "john",
+        "user_login": "john",
+        "display_name": "John",
+        "user_permissions": {
+          "download": 1,
+          "copy_download_link": 1,
+          "edit_description": 1,
+          "move": 1,
+          "delete": 1
+        },
+        "can_report": false,
+        "report_button_text": "Report Document",
+        "report_type": "Document",
+        "reported": false,
+        "_links": {
+          "self": [
+            {
+              "href": "https://online-communities.demos.buddyboss.com/wp-json/buddyboss/v1/document/16"
+            }
+          ],
+          "collection": [
+            {
+              "href": "https://online-communities.demos.buddyboss.com/wp-json/buddyboss/v1/document/"
+            }
+          ],
+          "user": [
+            {
+              "embeddable": true,
+              "href": "https://online-communities.demos.buddyboss.com/wp-json/buddyboss/v1/members/2"
+            }
+          ],
+          "activity": [
+            {
+              "embeddable": true,
+              "href": "https://online-communities.demos.buddyboss.com/wp-json/buddyboss/v1/activity/194570"
+            }
+          ]
+        }
+      }
+    ],
+    "comment_upload_document": true,
+    "_links": {
+      "self": [
+        {
+          "href": "https://online-communities.demos.buddyboss.com/wp-json/buddyboss/v1/activity/194570"
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://online-communities.demos.buddyboss.com/wp-json/buddyboss/v1/activity/"
+        }
+      ],
+      "user": [
+        {
+          "embeddable": true,
+          "href": "https://online-communities.demos.buddyboss.com/wp-json/buddyboss/v1/members/2"
+        }
+      ],
+      "favorite": [
+        {
+          "href": "https://online-communities.demos.buddyboss.com/wp-json/buddyboss/v1/activity/194570/favorite"
+        }
+      ]
+    }
+  },
+  {
+    "user_id": 22,
+    "name": "Sana",
+    "component": "activity",
+    "content": { "rendered": "" },
+    "date": "2020-06-05T06:30:03",
+    "id": 194568,
+    "link": "https://online-communities.demos.buddyboss.com/activity-feed/p/194568/",
+    "primary_item_id": 0,
+    "secondary_item_id": 0,
+    "status": "published",
+    "title": "<a href=\"https://online-communities.demos.buddyboss.com/members/sana-steve/\">Sana</a> posted an update",
+    "type": "activity_update",
+    "favorited": false,
+    "can_favorite": true,
+    "favorite_count": 0,
+    "can_comment": true,
+    "can_edit": false,
+    "can_delete": false,
+    "content_stripped": "",
+    "privacy": "public",
+    "activity_data": {
+      "can_edit_privacy": true,
+      "album_id": 0,
+      "group_id": 0,
+      "group_name": "",
+      "folder_id": 0,
+      "group_avatar": "",
+      "link_image_index_save": "",
+      "profile_video": true,
+      "group_video": true,
+      "profile_media": true,
+      "group_media": true,
+      "profile_document": true,
+      "group_document": true
+    },
+    "feature_media": "",
+    "preview_data": "",
+    "comment_count": 1,
+    "user_avatar": {
+      "full": "https://online-communities.demos.buddyboss.com/wp-content/sandbox185381-uploads/avatars/22/621e2c6ce3239-bpfull.png",
+      "thumb": "https://online-communities.demos.buddyboss.com/wp-content/sandbox185381-uploads/avatars/22/621e2c6d3481e-bpthumb.png"
+    },
+    "can_report": false,
+    "reported": false,
+    "report_button_text": "Report Document",
+    "report_type": "Document",
+    "bp_media_ids": null,
+    "media_gif": null,
+    "comment_upload_media": true,
+    "comment_upload_gif": true,
+    "comment_upload_emoji": true,
+    "bp_videos": null,
+    "comment_upload_video": true,
+    "bp_documents": [
+      {
+        "id": 15,
+        "blog_id": 1,
+        "attachment_id": 4708,
+        "user_id": 22,
+        "title": "woocommerce",
+        "description": "Stylesheet",
+        "type": "document",
+        "folder_id": 0,
+        "group_id": 0,
+        "activity_id": 194568,
+        "hide_activity_actions": false,
+        "privacy": "public",
+        "menu_order": 0,
+        "date_created": "2020-06-05 06:30:03",
+        "date_modified": "2020-06-05 06:30:03",
+        "group_name": "",
+        "group_status": "",
+        "visibility": "Public",
+        "count": 0,
+        "download_url": "https://online-communities.demos.buddyboss.com/?attachment=4708&document_type=document&download_document_file=1&document_file=15",
+        "extension": "css",
+        "extension_description": "CSS",
+        "svg_icon": null,
+        "filename": "woocommerce.css",
+        "size": "128 KB",
+        "msg_preview": "<div class=\"document-text-wrap\"><div class=\"document-text\" data-extension=\"css\"><textarea class=\"document-text-file-data-hidden\" style=\"display: none;\">.woocommerce .woocommerce-result-count {\n  font-size: 14px;\n  margin: .5em 0;\n  margin-right: auto;\n  color: #A3A5A9;\n}\n.woocommerce form.woocommerce-ordering select::-ms-expand {\n  display: none;\n}\n.woocommerce form.woocommerce-ordering select {\n  font-size: 14px;\n  height: 36px;\n  -moz-appearance: none;\n  -webkit-appearance: none;\n  -o-appearance: none;\n  appearance: none;\n  outline: none;\n}\n.woocommerce ul.products {\n  -webkit-column-count: auto;\n          column-count: auto;\n  display: -webkit-box;\n  display: -ms-flexbox;\n  display: flex;\n  -ms-flex-wrap: wrap;\n      flex-wrap: wrap;\n  margin-left: -10px;\n  margin-right: -10px;\n}\n.woocommerce ul.products li.product:first-of-type {\n  -webkit-box-flex: 1;\n      -ms-flex: 1;\n          flex: 1;\n  /* iPad fix */\n}\n.woocommerce ul.products.columns-2 li.product {\n  width: -webkit-calc(50% - 20px);\n  width: calc(50% - 20px);\n  max-width: -webkit-calc(50% - 20px);\n  max-width: calc(50% - 20px);\n}\n.woocommerce ul.products.columns-3 li.product {\n  width: -webkit-calc(33.333% - 20px);\n  width: calc(33.333% - 20px);\n  max-width: -webkit-calc(33.333% - 20px);\n  max-width: calc(33.333% - 20px);\n}\n.woocommerce ul.products.columns-4 li.product {\n  width: -webkit-calc(25% - 20px);\n  width: calc(25% - 20px);\n  max-width: -webkit-calc(25% - 20px);\n  max-width: calc(25% - 20px);\n}\n.woocommerce ul.products.columns-4 li.product .bs_after_shop_loop_item_links {\n  -webkit-box-orient: vertical;\n  -webkit-box-direction: normal;\n      -ms-flex-direction: column;\n          flex-direction: column;\n}\n.woocommerce ul.products.columns-4 li.product .bs_after_shop_loop_item_links a.added_to_cart.wc-forward {\n  width: 100%;\n  border-right: 0;\n  border-radius: 0;\n}\n.woocommerce ul.products.columns-4 li.product .bs_after_shop_loop_item_links a.button {\n  -ms-flex-item-align: center;\n      align-self: center;\n  width: 100%;\n}\n.woocommerce ul.products.columns-4 li.product .bs_after_shop_loop_item_links a.button.add_to_cart_button.added {\n  border-radius: 0 0 4px 4px;\n}\n.woocommerce ul.products li.product,\n.woocommerce ul.products li.product.type-product {\n  margin: 0 10px 20px;\n}\n.woocommerce ul.products li.product span.onsale {\n  margin: 0;\n  left: 0;\n  right: auto;\n}\n.woocommerce li.product {\n  background-color: #fff;\n  box-shadow: 0 0px 2px 0 rgba(18, 43, 70, 0.25);\n  border-radius: 4px;\n  display: -webkit-box;\n  display: -ms-flexbox;\n  display: flex;\n  -ms-flex-wrap: wrap;\n      flex-wrap: wrap;\n  margin: 0 10px 20px;\n  width: -webkit-calc(33.333% - 20px);\n  width: calc(33.333% - 20px);\n  max-width: -webkit-calc(33.333% - 20px);\n  max-width: calc(33.333% - 20px);\n}\n.woocommerce li.product a.woocommerce-LoopProduct-link {\n  -webkit-box-flex: 1;\n      -ms-flex-positive: 1;\n          flex-grow: 1;\n  -ms-flex: 0 0 100%;\n      flex: 0 0 100%;\n}\n.woocommerce li.product a.woocommerce-LoopProduct-link &gt; img {\n  border-radius: 4px 4px 0 0;\n  margin: 0 0 0.5em;\n  border: 0;\n  border-bottom: 1px solid #E7E9EC;\n}\n.woocommerce li.product .woocommerce-loop-product__title {\n  text-align: center;\n  font-size: 16px;\n  line-height: 24px;\n}\n.woocommerce li.product .star-rating {\n  margin-left: auto;\n  margin-right: auto;\n}\n.woocommerce li.product .price {\n  text-align: center;\n  color: #DC5525;\n  font-weight: 500;\n}\n.woocommerce li.product .price ins {\n  text-decoration: none;\n  font-weight: 500;\n}\n.woocommerce li.product .price del {\n  color: #C8CBCF;\n  opacity: 1;\n  font-weight: 400;\n}\n.woocommerce li.product .bs_after_shop_loop_item_separator {\n  width: 100%;\n  height: 1px;\n  border-bottom: 1px solid #E7E9EC;\n  margin: 0.4em 0 0;\n}\n.woocommerce li.product .bs_after_shop_loop_item_links {\n  display: -webkit-box;\n  display: -ms-flexbox;\n  display: flex;\n}\n.woocommerce li.product a.button {\n  -ms-flex-item-align: end;\n      align-self: flex-end;\n}\n.woocommerce li.product a.button.add_to_cart_button,\n.woocommerce li.product a.added_to_cart.wc-forward,\n.woocommerce li.product a.button.product_type_simple,\n.woocommerce li.product a.button.product_type_grouped,\n.woocommerce li.product a.button.product_type_external,\n.woocommerce li.product a.button.product_type_variable {\n  border-radius: 0 0 4px 4px;\n  border: 0;\n  background-color: #fff;\n  float: right;\n  color: #007CFF;\n  text-transform: uppercase;\n  font-weight: normal;\n  font-size: 12px;\n  line-height: 2.5;\n  text-align: center;\n  min-height: auto;\n  white-space: nowrap;\n  overflow: hidden;\n  padding: .618em 1em;\n  margin: 0 0 0 0;\n}\n.woocommerce li.product a.button.add_to_cart_button:hover,\n.woocommerce li.product a.added_to_cart.wc-forward:hover,\n.woocommerce li.product a.button.product_type_simple:hover,\n.woocommerce li.product a.button.product_type_grouped:hover,\n.woocommerce li.product a.button.product_type_external:hover,\n.woocommerce li.product a.button.product_type_variable:hover {\n  background-color: #007CFF;\n  color: #fff;\n}\n.woocommerce li.product a.button.product_type_external {\n  white-space: normal;\n  line-height: 2;\n}\n.woocommerce li.product a.button.add_to_cart_button.added {\n  border-radius: 0 0 4px 0;\n  margin-top: auto;\n  border-top: 1px solid #E7E9EC;\n}\n.woocommerce li.product a.button.add_to_cart_button,\n.woocommerce li.product a.button.product_type_simple,\n.woocommerce li.product a.button.product_type_grouped,\n.woocommerce li.product a.button.product_type_external,\n.woocommerce li.product a.button.product_type_variable {\n  -webkit-box-ordinal-group: 3;\n      -ms-flex-order: 2;\n          order: 2;\n  -webkit-box-flex: 1;\n      -ms-flex: 1;\n          flex: 1;\n  margin-top: auto;\n  border-top: 1px solid #E7E9EC;\n}\n.woocommerce li.product a.added_to_cart.wc-forward {\n  border-radius: 0 0 0 4px;\n  border-right: 1px solid #E7E9EC;\n  -webkit-box-ordinal-group: 2;\n      -ms-flex-order: 1;\n          order: 1;\n  width: 50%;\n  max-height: 50px;\n  margin-top: auto;\n  border-top: 1px solid #E7E9EC;\n}\n.woocommerce li.product .star-rating {\n  font-size: .757em;\n  margin-bottom: 1em;\n}\n.woocommerce li.product .star-rating:before {\n  content: '\\53\\53\\53\\53\\53';\n}\n.woocommerce li.product .star-rating span {\n  color: #FCAF00;\n}\n.woocommerce li.product:hover {\n  box-shadow: 0 6px 24px 0 rgba(18, 43, 70, 0.12);\n}\n@media (min-width: 1200px) {\n  .woocommerce.woo-sidebar ul.products.columns-4 a.button.add_to_cart_button.added:after, .woocommerce.woo-sidebar ul.products.columns-5 a.button.add_to_cart_button.added:after, .woocommerce.woo-sidebar ul.products.columns-6 a.button.add_to_cart_button.added:after {\n    display: none;\n  }\n}\n.woocommerce ul.products.columns-5 a.added_to_cart.wc-forward,\n.woocommerce ul.products.columns-6 a.added_to_cart.wc-forward, .woocommerce.bb-has-wc-sidebar ul.products.columns-4 a.added_to_cart.wc-forward {\n  width: 100%;\n  border-right: 0;\n}\n@media (max-width: 992px) {\n  .woocommerce ul.products li.product a.added_to_cart.wc-forward {\n    width: 100%;\n    border-right: 0;\n  }\n}\n.woocommerce span.onsale {\n  margin: 0;\n  top: 0;\n  left: 0;\n  border-top: 1px solid #E7E9EC;\n  border-left: 1px solid #E7E9EC;\n  right: auto;\n  border-radius: 4px 0 4px 0;\n  padding: 10px 10px;\n  background-color: #E65454;\n  min-height: auto;\n  min-width: auto;\n  line-height: 1em;\n  text-transform: uppercase;\n  font-size: 12px;\n}\n.woocommerce li.product span.onsale {\n  border-top: 0;\n  border-left: 0;\n}\n.woocommerce .star-rating {\n  font-size: 12px;\n  margin-top: 2px;\n  min-width: 90px;\n}\n.woocommerce .star-rating:before {\n  content: '\\53\\53\\53\\53\\53';\n  letter-spacing: 5px;\n}\n.woocommerce .star-rating span {\n  color: #FCAF00;\n}\n.woocommerce .star-rating span:before {\n  letter-spacing: 5px;\n}\n.woocommerce .woocommerce-error,\n.woocommerce .woocommerce-info,\n.woocommerce .woocommerce-message {\n  border-top: 0;\n  background-color: #fff;\n  border-radius: 4px;\n  border: 1px solid #E7E9EC;\n  font-size: 16px;\n  margin-bottom: 1em;\n}\n.woocommerce .woocommerce-error .button,\n.woocommerce .woocommerce-info .button,\n.woocommerce .woocommerce-message .button {\n  background-color: #007CFF;\n  color: #fff;\n  border-radius: 100px;\n  font-size: 14px;\n  font-weight: normal;\n  padding-left: 1em;\n  padding-right: 1em;\n  min-height: auto;\n  margin-left: 30px;\n}\n.woocommerce .woocommerce-error .button:hover,\n.woocommerce .woocommerce-info .button:hover,\n.woocommerce .woocommerce-message .button:hover {\n  background-color: #007CFF;\n  box-shadow: inset 0 0 0 99999px rgba(0, 0, 0, 0.1);\n  color: #fff;\n}\n.woocommerce .woocommerce-error {\n  background: #EF3E46;\n  color: #fff;\n  border: 0;\n}\n.woocommerce .woocommerce-error strong {\n  color: #fff;\n}\n.woocommerce .woocommerce-error::before {\n  font-size: 16px;\n  text-rendering: auto;\n  -webkit-font-smoothing: antialiased;\n  font-family: 'bb-icons';\n  color: #EF3E46;\n  content: \"\\E853\";\n  color: #fff;\n}\n.woocommerce .woocommerce-info {\n  color: inherit;\n}\n.woocommerce .woocommerce-info::before {\n  font-size: 16px;\n  text-rendering: auto;\n  -webkit-font-smoothing: antialiased;\n  font-family: 'bb-icons';\n  content: \"\\e882\";\n}\n.woocommerce .woocommerce-message {\n  color: inherit;\n}\n.woocommerce .woocommerce-message::before {\n  font-size: 16px;\n  text-rendering: auto;\n  -webkit-font-smoothing: antialiased;\n  font-family: 'bb-icons';\n  content: \"\\e875\";\n}\n.woocommerce .woocommerce-breadcrumb {\n  font-size: 14px;\n  color: #122B46;\n}\n.woocommerce .woocommerce-breadcrumb a {\n  color: #939597;\n}\n.woocommerce .woocommerce-breadcrumb a:hover {\n  color: #122B46;\n}\n.woocommerce .woocommerce-breadcrumb .bc-delimiter {\n  margin: 0 3px;\n  position: relative;\n  top: 1px;\n}\n.woocommerce a.button {\n  font-size: 15px;\n  font-style: normal;\n  color: #fff;\n  background-color: #007CFF;\n  border-radius: 100px;\n  /*min-height: $button-height;*/\n  /*This makes an issue with various plugins button height*/\n  padding: 10px 20px;\n  font-weight: 500;\n  text-decoration: none;\n  text-align: center;\n  cursor: pointer;\n  display: inline-block;\n  line-height: 1.3;\n  border: 1px solid transparent;\n  outline: none;\n  vertical-align: middle;\n  -webkit-appearance: none;\n  -web...</textarea></div><div class=\"document-expand\"><a href=\"#\" class=\"document-expand-anchor\"><i class=\"bb-icon-l bb-icon-plus document-icon-plus\"></i> Click to expand</a></div></div><div class=\"more_text_view\">This file was truncated for preview. Please <a href=\"https://online-communities.demos.buddyboss.com/?attachment=4708&#038;document_type=document&#038;download_document_file=1&#038;document_file=15\">download</a> to view the full file.</div>",
+        "attachment_data": {
+          "full": "",
+          "thumb": "",
+          "activity_thumb": "",
+          "activity_thumb_pdf": "",
+          "video_symlink": null,
+          "meta": []
+        },
+        "user_nicename": "sana-steve",
+        "user_login": "sana-steve",
+        "display_name": "Sana",
+        "user_permissions": {
+          "download": 1,
+          "copy_download_link": 1,
+          "edit_description": 0,
+          "move": 0,
+          "delete": 0
+        },
+        "can_report": false,
+        "report_button_text": "Report Document",
+        "report_type": "Document",
+        "reported": false,
+        "_links": {
+          "self": [
+            {
+              "href": "https://online-communities.demos.buddyboss.com/wp-json/buddyboss/v1/document/15"
+            }
+          ],
+          "collection": [
+            {
+              "href": "https://online-communities.demos.buddyboss.com/wp-json/buddyboss/v1/document/"
+            }
+          ],
+          "user": [
+            {
+              "embeddable": true,
+              "href": "https://online-communities.demos.buddyboss.com/wp-json/buddyboss/v1/members/22"
+            }
+          ],
+          "activity": [
+            {
+              "embeddable": true,
+              "href": "https://online-communities.demos.buddyboss.com/wp-json/buddyboss/v1/activity/194568"
+            }
+          ]
+        }
+      }
+    ],
+    "comment_upload_document": true,
+    "_links": {
+      "self": [
+        {
+          "href": "https://online-communities.demos.buddyboss.com/wp-json/buddyboss/v1/activity/194568"
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://online-communities.demos.buddyboss.com/wp-json/buddyboss/v1/activity/"
+        }
+      ],
+      "user": [
+        {
+          "embeddable": true,
+          "href": "https://online-communities.demos.buddyboss.com/wp-json/buddyboss/v1/members/22"
+        }
+      ],
+      "favorite": [
+        {
+          "href": "https://online-communities.demos.buddyboss.com/wp-json/buddyboss/v1/activity/194568/favorite"
+        }
+      ]
+    }
+  },
+  {
+    "user_id": 6,
+    "name": "Alyssa",
+    "component": "activity",
+    "content": { "rendered": "<p>Hanging out at the beach</p>\n" },
+    "date": "2020-06-05T06:27:16",
+    "id": 194566,
+    "link": "https://online-communities.demos.buddyboss.com/activity-feed/p/194566/",
+    "primary_item_id": 0,
+    "secondary_item_id": 0,
+    "status": "published",
+    "title": "<a href=\"https://online-communities.demos.buddyboss.com/members/alyssa/\">Alyssa</a> posted an update",
+    "type": "activity_update",
+    "favorited": false,
+    "can_favorite": true,
+    "favorite_count": 0,
+    "can_comment": true,
+    "can_edit": false,
+    "can_delete": false,
+    "content_stripped": "Hanging out at the beach",
+    "privacy": "public",
+    "activity_data": {
+      "can_edit_privacy": true,
+      "album_id": 0,
+      "group_id": 0,
+      "group_name": "",
+      "folder_id": 0,
+      "group_avatar": "",
+      "link_image_index_save": "",
+      "profile_video": true,
+      "group_video": true,
+      "profile_media": true,
+      "group_media": true,
+      "profile_document": true,
+      "group_document": true
+    },
+    "feature_media": "",
+    "preview_data": "",
+    "comment_count": 2,
+    "user_avatar": {
+      "full": "https://online-communities.demos.buddyboss.com/wp-content/sandbox185381-uploads/avatars/6/621e236d4e3c2-bpfull.png",
+      "thumb": "https://online-communities.demos.buddyboss.com/wp-content/sandbox185381-uploads/avatars/6/621e236d73634-bpthumb.png"
+    },
+    "can_report": false,
+    "reported": false,
+    "report_button_text": "Report Photo",
+    "report_type": "Photo",
+    "bp_media_ids": [
+      {
+        "id": 379,
+        "blog_id": 1,
+        "attachment_id": 4707,
+        "user_id": 6,
+        "title": "Brazomar Beach Spain",
+        "description": "The good life",
+        "album_id": 0,
+        "group_id": 0,
+        "activity_id": 194566,
+        "hide_activity_actions": false,
+        "privacy": "forums",
+        "menu_order": 0,
+        "date_created": "2020-06-05 06:27:16",
+        "attachment_data": {
+          "full": "https://online-communities.demos.buddyboss.com/wp-content/sandbox185381-uploads/bb-platform-previews/b9014e776e469ca6dae702955bf32e95/b2b3c0cadacf4bb4ec06296486a6546d",
+          "thumb": "https://online-communities.demos.buddyboss.com/wp-content/sandbox185381-uploads/bb-platform-previews/b9014e776e469ca6dae702955bf32e95/b2b3c0cadacf4bb4ec06296486a6546d",
+          "media_album_cover": "https://online-communities.demos.buddyboss.com/wp-content/sandbox185381-uploads/bb-platform-previews/b9014e776e469ca6dae702955bf32e95/9797652920cd37159701d9dd89829459",
+          "media_photos_directory_page": "https://online-communities.demos.buddyboss.com/wp-content/sandbox185381-uploads/bb-platform-previews/b9014e776e469ca6dae702955bf32e95/9797652920cd37159701d9dd89829459",
+          "media_theatre_popup": "https://online-communities.demos.buddyboss.com/wp-content/sandbox185381-uploads/bb-platform-previews/b9014e776e469ca6dae702955bf32e95/b9b072f616a3c1d5b377023a8360665d",
+          "activity_thumb": "https://online-communities.demos.buddyboss.com/wp-content/sandbox185381-uploads/bb-platform-previews/b9014e776e469ca6dae702955bf32e95/b2b3c0cadacf4bb4ec06296486a6546d",
+          "meta": {
+            "width": 1440,
+            "height": 900,
+            "sizes": {
+              "bb-media-activity-image": {
+                "file": "01042_brazomarbeach_1440x900-640x400.jpg",
+                "width": 640,
+                "height": 400,
+                "mime-type": "image/jpeg",
+                "filesize": 78544
+              },
+              "bb-media-photos-album-directory-image": {
+                "file": "01042_brazomarbeach_1440x900-400x250.jpg",
+                "width": 400,
+                "height": 250,
+                "mime-type": "image/jpeg",
+                "filesize": 44264
+              },
+              "bb-media-photos-album-directory-image-medium": {
+                "file": "01042_brazomarbeach_1440x900-800x500.jpg",
+                "width": 800,
+                "height": 500,
+                "mime-type": "image/jpeg",
+                "filesize": 109562
+              }
+            }
+          }
+        },
+        "group_name": "",
+        "visibility": "Forums",
+        "user_nicename": "alyssa",
+        "user_login": "alyssa",
+        "display_name": "Alyssa",
+        "url": "https://online-communities.demos.buddyboss.com/wp-content/sandbox185381-uploads/bb-platform-previews/b9014e776e469ca6dae702955bf32e95/b9b072f616a3c1d5b377023a8360665d",
+        "download_url": "https://online-communities.demos.buddyboss.com/?attachment_id=4707&media_type=media&download_media_file=1&media_file=379",
+        "user_permissions": {
+          "download": 1,
+          "edit_privacy": 0,
+          "edit_post_privacy": 0,
+          "edit_album_privacy": 0,
+          "edit_description": 0,
+          "move": 0,
+          "delete": 0
+        },
+        "type": "photo",
+        "can_report": false,
+        "reported": false,
+        "report_button_text": "Report Photo",
+        "report_type": "Photo",
+        "_links": {
+          "self": [
+            {
+              "href": "https://online-communities.demos.buddyboss.com/wp-json/buddyboss/v1/media/379"
+            }
+          ],
+          "collection": [
+            {
+              "href": "https://online-communities.demos.buddyboss.com/wp-json/buddyboss/v1/media/"
+            }
+          ],
+          "user": [
+            {
+              "embeddable": true,
+              "href": "https://online-communities.demos.buddyboss.com/wp-json/buddyboss/v1/members/6"
+            }
+          ],
+          "activity": [
+            {
+              "embeddable": true,
+              "href": "https://online-communities.demos.buddyboss.com/wp-json/buddyboss/v1/activity/194566"
+            }
+          ]
+        }
+      }
+    ],
+    "media_gif": null,
+    "comment_upload_media": true,
+    "comment_upload_gif": true,
+    "comment_upload_emoji": true,
+    "bp_videos": null,
+    "comment_upload_video": true,
+    "bp_documents": null,
+    "comment_upload_document": true,
+    "_links": {
+      "self": [
+        {
+          "href": "https://online-communities.demos.buddyboss.com/wp-json/buddyboss/v1/activity/194566"
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://online-communities.demos.buddyboss.com/wp-json/buddyboss/v1/activity/"
+        }
+      ],
+      "user": [
+        {
+          "embeddable": true,
+          "href": "https://online-communities.demos.buddyboss.com/wp-json/buddyboss/v1/members/6"
+        }
+      ],
+      "favorite": [
+        {
+          "href": "https://online-communities.demos.buddyboss.com/wp-json/buddyboss/v1/activity/194566/favorite"
+        }
+      ]
+    }
+  },
+  {
+    "user_id": 19,
+    "name": "Joseph",
+    "component": "activity",
+    "content": { "rendered": "" },
+    "date": "2020-06-05T06:23:35",
+    "id": 194561,
+    "link": "https://online-communities.demos.buddyboss.com/activity-feed/p/194561/",
+    "primary_item_id": 0,
+    "secondary_item_id": 0,
+    "status": "published",
+    "title": "<a href=\"https://online-communities.demos.buddyboss.com/members/joseph/\">Joseph</a> posted an update",
+    "type": "activity_update",
+    "favorited": false,
+    "can_favorite": true,
+    "favorite_count": 0,
+    "can_comment": true,
+    "can_edit": false,
+    "can_delete": false,
+    "content_stripped": "",
+    "privacy": "loggedin",
+    "activity_data": {
+      "can_edit_privacy": true,
+      "album_id": 0,
+      "group_id": 0,
+      "group_name": "",
+      "folder_id": 0,
+      "group_avatar": "",
+      "link_image_index_save": "",
+      "profile_video": true,
+      "group_video": true,
+      "profile_media": true,
+      "group_media": true,
+      "profile_document": true,
+      "group_document": true
+    },
+    "feature_media": "",
+    "preview_data": "",
+    "comment_count": 1,
+    "user_avatar": {
+      "full": "https://online-communities.demos.buddyboss.com/wp-content/sandbox185381-uploads/avatars/19/621e22610fbc7-bpfull.png",
+      "thumb": "https://online-communities.demos.buddyboss.com/wp-content/sandbox185381-uploads/avatars/19/621e226150d99-bpthumb.png"
+    },
+    "can_report": false,
+    "reported": false,
+    "report_button_text": "Report Document",
+    "report_type": "Document",
+    "bp_media_ids": null,
+    "media_gif": null,
+    "comment_upload_media": true,
+    "comment_upload_gif": true,
+    "comment_upload_emoji": true,
+    "bp_videos": null,
+    "comment_upload_video": true,
+    "bp_documents": [
+      {
+        "id": 14,
+        "blog_id": 1,
+        "attachment_id": 4706,
+        "user_id": 19,
+        "title": "learndash",
+        "description": "LearnDash stylesheet",
+        "type": "document",
+        "folder_id": 0,
+        "group_id": 0,
+        "activity_id": 194561,
+        "hide_activity_actions": false,
+        "privacy": "loggedin",
+        "menu_order": 0,
+        "date_created": "2020-06-05 06:23:35",
+        "date_modified": "2020-06-05 06:23:35",
+        "group_name": "",
+        "group_status": "",
+        "visibility": "All Members",
+        "count": 0,
+        "download_url": "https://online-communities.demos.buddyboss.com/?attachment=4706&document_type=document&download_document_file=1&document_file=14",
+        "extension": "css",
+        "extension_description": "CSS",
+        "svg_icon": null,
+        "filename": "learndash.css",
+        "size": "293 KB",
+        "msg_preview": "<div class=\"document-text-wrap\"><div class=\"document-text\" data-extension=\"css\"><textarea class=\"document-text-file-data-hidden\" style=\"display: none;\">html.quiz-sort, html.quiz-sort body, html.quiz-sort .site {\n  overflow: initial;\n}\n\nhtml.elementor-html body.bb-sfwd-aside {\n  overflow: auto;\n}\n\n.learndash-theme.post-type-archive-sfwd-lessons .post-grid &gt; .hentry {\n  -webkit-box-flex: 0;\n      -ms-flex: 0 0 25%;\n          flex: 0 0 25%;\n}\n@media screen and (max-width: 1100px) {\n  .learndash-theme.post-type-archive-sfwd-lessons .post-grid &gt; .hentry {\n    -webkit-box-flex: 0;\n        -ms-flex: 0 0 33.3333%;\n            flex: 0 0 33.3333%;\n  }\n}\n@media screen and (max-width: 800px) {\n  .learndash-theme.post-type-archive-sfwd-lessons .post-grid &gt; .hentry {\n    -webkit-box-flex: 0;\n        -ms-flex: 0 0 50%;\n            flex: 0 0 50%;\n  }\n}\n@media screen and (max-width: 480px) {\n  .learndash-theme.post-type-archive-sfwd-lessons .post-grid &gt; .hentry {\n    -webkit-box-flex: 0;\n        -ms-flex: 0 0 100%;\n            flex: 0 0 100%;\n  }\n}\n.learndash-theme.post-type-archive-sfwd-lessons .post-grid &gt; .hentry .entry-content {\n  margin-bottom: 0;\n}\n.learndash-theme.post-type-archive-sfwd-lessons .post-grid &gt; .hentry .entry-content p:last-child {\n  margin-bottom: 0;\n}\n\n#learndash-page-content {\n  background-color: #fff;\n  border-bottom: 1px solid #E7E9EC;\n  padding: 30px 100px 0;\n  position: relative;\n  display: -webkit-box;\n  display: -ms-flexbox;\n  display: flex;\n  -webkit-box-orient: vertical;\n  -webkit-box-direction: normal;\n      -ms-flex-direction: column;\n          flex-direction: column;\n  min-height: -webkit-calc(100vh - 76px);\n  min-height: calc(100vh - 76px);\n}\n#learndash-page-content.loading &gt; .learndash-content-body {\n  opacity: 0.2;\n}\n#learndash-page-content.loading:after {\n  font: normal normal normal 20px/1 \"bb-icons\";\n  speak: none;\n  display: inline-block;\n  text-decoration: inherit;\n  text-transform: none;\n  -webkit-font-smoothing: antialiased;\n  -moz-osx-font-smoothing: grayscale;\n  content: '\\E838';\n  -webkit-animation: spin 2s infinite linear;\n          animation: spin 2s infinite linear;\n  width: 20px;\n  height: 20px;\n  position: absolute;\n  z-index: 102;\n  margin-left: auto;\n  margin-right: auto;\n  left: 0;\n  right: 0;\n}\n@media screen and (max-width: 1200px) {\n  #learndash-page-content {\n    padding: 30px 60px 0;\n  }\n}\n@media screen and (max-width: 992px) {\n  #learndash-page-content {\n    padding: 30px 40px 0;\n  }\n}\n@media screen and (max-width: 543px) {\n  #learndash-page-content {\n    padding: 30px 20px 0;\n  }\n}\n#learndash-page-content .learndash_next_prev_link {\n  margin-top: auto;\n  display: -webkit-box;\n  display: -ms-flexbox;\n  display: flex;\n  padding: 30px 0;\n}\n#learndash-page-content .learndash_next_prev_link a.next-link {\n  margin-left: auto;\n}\n#learndash-page-content .sfwd-course-nav {\n  display: -webkit-box;\n  display: -ms-flexbox;\n  display: flex;\n  -webkit-box-align: center;\n      -ms-flex-align: center;\n          align-items: center;\n}\n#learndash-page-content .sfwd-course-nav .sfwd-course-expire {\n  margin-right: 20px;\n  font-size: 14px;\n}\n#learndash-page-content .sfwd-course-nav .sfwd-course-expire i {\n  color: #A3A5A9;\n  margin-right: 8px;\n}\n#learndash-page-content .sfwd-course-nav .learndash_next_prev_link {\n  margin-top: 0;\n  display: -webkit-box;\n  display: -ms-flexbox;\n  display: flex;\n  padding: 0;\n}\n#learndash-page-content .sfwd-course-nav .learndash_next_prev_link a {\n  font-size: 0;\n  background-color: #D3D7DB;\n  color: #fff;\n}\n#learndash-page-content .sfwd-course-nav .learndash_next_prev_link a:hover {\n  background-color: #007CFF;\n}\n#learndash-page-content .sfwd-course-nav .learndash_next_prev_link a:after, #learndash-page-content .sfwd-course-nav .learndash_next_prev_link a:before {\n  font-size: 16px;\n  padding-bottom: 0;\n  margin: 0;\n}\n#learndash-page-content .sfwd-course-nav .learndash_next_prev_link a.next-link {\n  margin-left: auto;\n}\n#learndash-page-content .sfwd-course-nav .learndash_next_prev_link span.empty-post {\n  font-size: 0;\n  background-color: #D3D7DB;\n  color: #fff;\n  opacity: 0.5;\n  pointer-events: none;\n}\n#learndash-page-content .sfwd-course-nav .learndash_next_prev_link span.empty-post:after, #learndash-page-content .sfwd-course-nav .learndash_next_prev_link span.empty-post:before {\n  font-size: 16px;\n  padding-bottom: 0;\n  margin: 0;\n}\n#learndash-page-content .sfwd-course-nav .learndash_next_prev_link span.next-link {\n  margin-left: auto;\n}\n#learndash-page-content .bb-lms-secondary-header &gt; span {\n  text-transform: uppercase;\n  font-size: 12px;\n}\n#learndash-page-content .bb-lms-secondary-header h1 {\n  line-height: 1.2;\n  font-weight: 700;\n  font-size: 36px;\n  margin: 0;\n}\n#learndash-page-content .bb-lms-secondary-header p#learndash_next_prev_link {\n  font-size: 13px;\n  margin-bottom: 0;\n}\n\n/*Hide Shortcode content*/\n.sfwd-lessons-template-default #learndash-page-content #learndash-content .lms-topic-sidebar-wrapper,\n.sfwd-topic-template-default #learndash-page-content #learndash-content .lms-topic-sidebar-wrapper,\n.sfwd-quiz-template-default #learndash-page-content #learndash-content .lms-topic-sidebar-wrapper {\n  display: none;\n}\n.sfwd-lessons-template-default #learndash-page-content #learndash-content #learndash-page-content,\n.sfwd-topic-template-default #learndash-page-content #learndash-content #learndash-page-content,\n.sfwd-quiz-template-default #learndash-page-content #learndash-content #learndash-page-content {\n  min-height: inherit;\n  padding: 0;\n  border: 0;\n}\n.sfwd-lessons-template-default #learndash-page-content #learndash-content #learndash-page-content .learndash_content_wrap,\n.sfwd-topic-template-default #learndash-page-content #learndash-content #learndash-page-content .learndash_content_wrap,\n.sfwd-quiz-template-default #learndash-page-content #learndash-content #learndash-page-content .learndash_content_wrap {\n  padding: 0;\n  margin: 0;\n}\n.sfwd-lessons-template-default #learndash-page-content #learndash-content #learndash-page-content .learndash_content_wrap &gt; div,\n.sfwd-topic-template-default #learndash-page-content #learndash-content #learndash-page-content .learndash_content_wrap &gt; div,\n.sfwd-quiz-template-default #learndash-page-content #learndash-content #learndash-page-content .learndash_content_wrap &gt; div {\n  padding: 0;\n  margin: 0;\n}\n.sfwd-lessons-template-default #learndash-page-content #learndash-content #learndash-page-content #learndash-course-header,\n.sfwd-topic-template-default #learndash-page-content #learndash-content #learndash-page-content #learndash-course-header,\n.sfwd-quiz-template-default #learndash-page-content #learndash-content #learndash-page-content #learndash-course-header {\n  display: none;\n}\n.sfwd-lessons-template-default #learndash-page-content #learndash-content #learndash-page-content .learndash_content_wrap #comments.comments-area,\n.sfwd-lessons-template-default #learndash-page-content #learndash-content #learndash-page-content .learndash_content_wrap .ld-focus-comments,\n.sfwd-topic-template-default #learndash-page-content #learndash-content #learndash-page-content .learndash_content_wrap #comments.comments-area,\n.sfwd-topic-template-default #learndash-page-content #learndash-content #learndash-page-content .learndash_content_wrap .ld-focus-comments,\n.sfwd-quiz-template-default #learndash-page-content #learndash-content #learndash-page-content .learndash_content_wrap #comments.comments-area,\n.sfwd-quiz-template-default #learndash-page-content #learndash-content #learndash-page-content .learndash_content_wrap .ld-focus-comments {\n  display: none;\n}\n\n#learndash_lessons,\n#learndash_quizzes,\n#learndash_profile,\n#learndash_lesson_topics_list &gt; div {\n  background-color: transparent;\n  border: 0;\n  border-radius: 0;\n  box-shadow: none;\n  margin-bottom: 0;\n}\n\nbody.bb-buddypanel.bb-sfwd-aside .site-header .bb-toggle-panel {\n  display: inherit;\n  margin-left: -18px;\n}\nbody.bb-buddypanel.bb-sfwd-aside .header-aside-inner .bb-toggle-panel {\n  display: none;\n}\nbody.bb-buddypanel.bb-sfwd-aside.bb-buddypanel-right .site-header .site-header-container &gt; .bb-toggle-panel {\n  display: none;\n}\nbody.bb-buddypanel.bb-sfwd-aside.bb-buddypanel-right .site-header .site-header-container {\n  padding-left: 0;\n}\nbody.bb-buddypanel.bb-sfwd-aside.bb-buddypanel-right .header-3 .header-aside-inner .bb-toggle-panel {\n  margin-right: 0;\n}\nbody.bb-buddypanel.bb-sfwd-aside.bb-buddypanel-right .header-aside-inner .bb-toggle-panel {\n  display: inline-block;\n  padding-left: 20px;\n  margin: 0;\n  margin-right: -18px;\n}\nbody.bb-buddypanel.bb-sfwd-aside .site-header .site-header-container:not(.header-3) #header-aside .bb-toggle-panel i {\n  color: inherit;\n}\nbody.bb-buddypanel.bb-sfwd-aside.buddypanel-open:not(.buddypanel-header) .site-header .bb-toggle-panel, body.bb-buddypanel.bb-sfwd-aside.buddypanel-transtioned:not(.buddypanel-header) .site-header .bb-toggle-panel {\n  visibility: hidden;\n  opacity: 0;\n}\nbody.bb-buddypanel.bb-sfwd-aside.buddypanel-header .site-header .bb-toggle-panel {\n  margin-left: -18px;\n}\nbody.bb-buddypanel.bb-sfwd-aside.buddypanel-header.bb-buddypanel-right .site-header .bb-toggle-panel {\n  margin-left: 0;\n}\nbody.bb-buddypanel.bb-sfwd-aside:not(.buddypanel-open) .buddypanel .bb-toggle-panel {\n  visibility: hidden;\n  opacity: 0;\n}\n\nbody.bb-sfwd-aside .site-header .container,\nbody.bb-sfwd-aside .footer-container .container {\n  max-width: 100%;\n}\nbody.bb-sfwd-aside .site-header .container {\n  max-width: 100%;\n  margin-right: 0;\n}\nbody.bb-sfwd-aside.buddypanel-header .buddypanel .panel-head {\n  height: 0;\n}\nbody.bb-sfwd-aside.buddypanel-header .buddypanel .panel-head .bb-toggle-panel {\n  display: none;\n}\nbody.bb-sfwd-aside .side-panel-inner {\n  height: -webkit-calc(100% - 70px);\n  height: calc(100% - 70px);\n}\n\n.single-sfwd-quiz .elementor.elementor-location-footer,\n.single-sfwd-lessons .elementor.elementor-location-footer,\n.single-sfwd-topic .elementor.elementor-location-footer {\n  display: none !important;\n}\n\n.bb-sfwd-aside .site-content .container {\n  max-width: 100%;\n  padding-left: 0;\n  padding-right: 0;\n}\n.bb-sfwd-aside .site-content .container &gt; .grid {\n  margin-left: ...</textarea></div><div class=\"document-expand\"><a href=\"#\" class=\"document-expand-anchor\"><i class=\"bb-icon-l bb-icon-plus document-icon-plus\"></i> Click to expand</a></div></div><div class=\"more_text_view\">This file was truncated for preview. Please <a href=\"https://online-communities.demos.buddyboss.com/?attachment=4706&#038;document_type=document&#038;download_document_file=1&#038;document_file=14\">download</a> to view the full file.</div>",
+        "attachment_data": {
+          "full": "",
+          "thumb": "",
+          "activity_thumb": "",
+          "activity_thumb_pdf": "",
+          "video_symlink": null,
+          "meta": []
+        },
+        "user_nicename": "joseph",
+        "user_login": "joseph",
+        "display_name": "Joseph",
+        "user_permissions": {
+          "download": 0,
+          "copy_download_link": 0,
+          "edit_description": 0,
+          "move": 0,
+          "delete": 0
+        },
+        "can_report": false,
+        "report_button_text": "Report Document",
+        "report_type": "Document",
+        "reported": false,
+        "_links": {
+          "self": [
+            {
+              "href": "https://online-communities.demos.buddyboss.com/wp-json/buddyboss/v1/document/14"
+            }
+          ],
+          "collection": [
+            {
+              "href": "https://online-communities.demos.buddyboss.com/wp-json/buddyboss/v1/document/"
+            }
+          ],
+          "user": [
+            {
+              "embeddable": true,
+              "href": "https://online-communities.demos.buddyboss.com/wp-json/buddyboss/v1/members/19"
+            }
+          ],
+          "activity": [
+            {
+              "embeddable": true,
+              "href": "https://online-communities.demos.buddyboss.com/wp-json/buddyboss/v1/activity/194561"
+            }
+          ]
+        }
+      }
+    ],
+    "comment_upload_document": true,
+    "_links": {
+      "self": [
+        {
+          "href": "https://online-communities.demos.buddyboss.com/wp-json/buddyboss/v1/activity/194561"
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://online-communities.demos.buddyboss.com/wp-json/buddyboss/v1/activity/"
+        }
+      ],
+      "user": [
+        {
+          "embeddable": true,
+          "href": "https://online-communities.demos.buddyboss.com/wp-json/buddyboss/v1/members/19"
+        }
+      ],
+      "favorite": [
+        {
+          "href": "https://online-communities.demos.buddyboss.com/wp-json/buddyboss/v1/activity/194561/favorite"
+        }
+      ]
+    }
+  },
+  {
+    "user_id": 18,
+    "name": "Michael",
+    "component": "groups",
+    "content": { "rendered": "" },
+    "date": "2020-06-05T06:22:18",
+    "id": 194560,
+    "link": "https://online-communities.demos.buddyboss.com/activity-feed/p/194560/",
+    "primary_item_id": 3,
+    "secondary_item_id": 0,
+    "status": "published",
+    "title": "<a href=\"https://online-communities.demos.buddyboss.com/members/michael/\">Michael</a> posted an update in the group <a href=\"https://online-communities.demos.buddyboss.com/groups/graphic-design/\">Graphic Design</a>",
+    "type": "activity_update",
+    "favorited": false,
+    "can_favorite": true,
+    "favorite_count": 0,
+    "can_comment": true,
+    "can_edit": false,
+    "can_delete": false,
+    "content_stripped": "",
+    "privacy": "public",
+    "activity_data": {
+      "can_edit_privacy": false,
+      "album_id": 0,
+      "group_id": 3,
+      "group_name": "Graphic Design",
+      "folder_id": 0,
+      "group_avatar": "https://online-communities.demos.buddyboss.com/wp-content/sandbox185381-uploads/group-avatars/3/6217b753197c9-bpfull.jpg",
+      "link_image_index_save": "",
+      "profile_video": true,
+      "group_video": false,
+      "profile_media": true,
+      "group_media": false,
+      "profile_document": true,
+      "group_document": false
+    },
+    "feature_media": "",
+    "preview_data": "",
+    "comment_count": 1,
+    "user_avatar": {
+      "full": "https://online-communities.demos.buddyboss.com/wp-content/sandbox185381-uploads/avatars/18/621e29e977850-bpfull.png",
+      "thumb": "https://online-communities.demos.buddyboss.com/wp-content/sandbox185381-uploads/avatars/18/621e29e9a5b84-bpthumb.png"
+    },
+    "can_report": false,
+    "reported": false,
+    "report_button_text": "Report Document",
+    "report_type": "Document",
+    "bp_media_ids": null,
+    "media_gif": null,
+    "comment_upload_media": false,
+    "comment_upload_gif": true,
+    "comment_upload_emoji": true,
+    "bp_videos": null,
+    "comment_upload_video": false,
+    "bp_documents": [
+      {
+        "id": 13,
+        "blog_id": 1,
+        "attachment_id": 4705,
+        "user_id": 18,
+        "title": "Evolution-of-Communication",
+        "description": "",
+        "type": "document",
+        "folder_id": 0,
+        "group_id": 3,
+        "activity_id": 194560,
+        "hide_activity_actions": false,
+        "privacy": "grouponly",
+        "menu_order": 0,
+        "date_created": "2020-06-05 06:22:18",
+        "date_modified": "2020-06-05 06:22:18",
+        "group_name": "Graphic Design",
+        "group_status": "public",
+        "visibility": "Public",
+        "count": 0,
+        "download_url": "https://online-communities.demos.buddyboss.com/?attachment=4705&document_type=document&download_document_file=1&document_file=13",
+        "extension": "docx",
+        "extension_description": "Word Document",
+        "svg_icon": null,
+        "filename": "Evolution-of-Communication.docx",
+        "size": "489 KB",
+        "msg_preview": "",
+        "attachment_data": {
+          "full": "",
+          "thumb": "",
+          "activity_thumb": "",
+          "activity_thumb_pdf": "",
+          "video_symlink": null,
+          "meta": []
+        },
+        "user_nicename": "michael",
+        "user_login": "michael",
+        "display_name": "Michael",
+        "user_permissions": {
+          "download": 1,
+          "copy_download_link": 1,
+          "edit_description": 1,
+          "move": 1,
+          "delete": 1
+        },
+        "can_report": false,
+        "report_button_text": "Report Document",
+        "report_type": "Document",
+        "reported": false,
+        "_links": {
+          "self": [
+            {
+              "href": "https://online-communities.demos.buddyboss.com/wp-json/buddyboss/v1/document/13"
+            }
+          ],
+          "collection": [
+            {
+              "href": "https://online-communities.demos.buddyboss.com/wp-json/buddyboss/v1/document/"
+            }
+          ],
+          "user": [
+            {
+              "embeddable": true,
+              "href": "https://online-communities.demos.buddyboss.com/wp-json/buddyboss/v1/members/18"
+            }
+          ],
+          "activity": [
+            {
+              "embeddable": true,
+              "href": "https://online-communities.demos.buddyboss.com/wp-json/buddyboss/v1/activity/194560"
+            }
+          ],
+          "group": [
+            {
+              "embeddable": true,
+              "href": "https://online-communities.demos.buddyboss.com/wp-json/buddyboss/v1/groups/3"
+            }
+          ]
+        }
+      }
+    ],
+    "comment_upload_document": false,
+    "_links": {
+      "self": [
+        {
+          "href": "https://online-communities.demos.buddyboss.com/wp-json/buddyboss/v1/activity/194560"
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://online-communities.demos.buddyboss.com/wp-json/buddyboss/v1/activity/"
+        }
+      ],
+      "user": [
+        {
+          "embeddable": true,
+          "href": "https://online-communities.demos.buddyboss.com/wp-json/buddyboss/v1/members/18"
+        }
+      ],
+      "favorite": [
+        {
+          "href": "https://online-communities.demos.buddyboss.com/wp-json/buddyboss/v1/activity/194560/favorite"
+        }
+      ],
+      "group": [
+        {
+          "embeddable": true,
+          "href": "https://online-communities.demos.buddyboss.com/wp-json/buddyboss/v1/groups/3"
+        }
+      ]
+    }
+  },
+  {
+    "user_id": 18,
+    "name": "Michael",
+    "component": "groups",
+    "content": { "rendered": "" },
+    "date": "2020-06-05T06:21:26",
+    "id": 194559,
+    "link": "https://online-communities.demos.buddyboss.com/activity-feed/p/194559/",
+    "primary_item_id": 3,
+    "secondary_item_id": 0,
+    "status": "published",
+    "title": "<a href=\"https://online-communities.demos.buddyboss.com/members/michael/\">Michael</a> posted an update in the group <a href=\"https://online-communities.demos.buddyboss.com/groups/graphic-design/\">Graphic Design</a>",
+    "type": "activity_update",
+    "favorited": false,
+    "can_favorite": true,
+    "favorite_count": "1",
+    "can_comment": true,
+    "can_edit": false,
+    "can_delete": false,
+    "content_stripped": "",
+    "privacy": "public",
+    "activity_data": {
+      "can_edit_privacy": false,
+      "album_id": 0,
+      "group_id": 3,
+      "group_name": "Graphic Design",
+      "folder_id": 0,
+      "group_avatar": "https://online-communities.demos.buddyboss.com/wp-content/sandbox185381-uploads/group-avatars/3/6217b753197c9-bpfull.jpg",
+      "link_image_index_save": "",
+      "profile_video": true,
+      "group_video": false,
+      "profile_media": true,
+      "group_media": false,
+      "profile_document": true,
+      "group_document": false
+    },
+    "feature_media": "",
+    "preview_data": "",
+    "comment_count": 1,
+    "user_avatar": {
+      "full": "https://online-communities.demos.buddyboss.com/wp-content/sandbox185381-uploads/avatars/18/621e29e977850-bpfull.png",
+      "thumb": "https://online-communities.demos.buddyboss.com/wp-content/sandbox185381-uploads/avatars/18/621e29e9a5b84-bpthumb.png"
+    },
+    "can_report": false,
+    "reported": false,
+    "report_button_text": "Report Document",
+    "report_type": "Document",
+    "bp_media_ids": null,
+    "media_gif": null,
+    "comment_upload_media": false,
+    "comment_upload_gif": true,
+    "comment_upload_emoji": true,
+    "bp_videos": null,
+    "comment_upload_video": false,
+    "bp_documents": [
+      {
+        "id": 12,
+        "blog_id": 1,
+        "attachment_id": 4704,
+        "user_id": 18,
+        "title": "Testimonial-Design-Samples",
+        "description": "",
+        "type": "document",
+        "folder_id": 0,
+        "group_id": 3,
+        "activity_id": 194559,
+        "hide_activity_actions": false,
+        "privacy": "grouponly",
+        "menu_order": 0,
+        "date_created": "2020-06-05 06:21:26",
+        "date_modified": "2020-06-05 06:21:26",
+        "group_name": "Graphic Design",
+        "group_status": "public",
+        "visibility": "Public",
+        "count": 0,
+        "download_url": "https://online-communities.demos.buddyboss.com/?attachment=4704&document_type=document&download_document_file=1&document_file=12",
+        "extension": "sketch",
+        "extension_description": "Sketch Document",
+        "svg_icon": null,
+        "filename": "Testimonial-Design-Samples.sketch",
+        "size": "10 MB",
+        "msg_preview": "",
+        "attachment_data": {
+          "full": "",
+          "thumb": "",
+          "activity_thumb": "",
+          "activity_thumb_pdf": "",
+          "video_symlink": null,
+          "meta": []
+        },
+        "user_nicename": "michael",
+        "user_login": "michael",
+        "display_name": "Michael",
+        "user_permissions": {
+          "download": 1,
+          "copy_download_link": 1,
+          "edit_description": 1,
+          "move": 1,
+          "delete": 1
+        },
+        "can_report": false,
+        "report_button_text": "Report Document",
+        "report_type": "Document",
+        "reported": false,
+        "_links": {
+          "self": [
+            {
+              "href": "https://online-communities.demos.buddyboss.com/wp-json/buddyboss/v1/document/12"
+            }
+          ],
+          "collection": [
+            {
+              "href": "https://online-communities.demos.buddyboss.com/wp-json/buddyboss/v1/document/"
+            }
+          ],
+          "user": [
+            {
+              "embeddable": true,
+              "href": "https://online-communities.demos.buddyboss.com/wp-json/buddyboss/v1/members/18"
+            }
+          ],
+          "activity": [
+            {
+              "embeddable": true,
+              "href": "https://online-communities.demos.buddyboss.com/wp-json/buddyboss/v1/activity/194559"
+            }
+          ],
+          "group": [
+            {
+              "embeddable": true,
+              "href": "https://online-communities.demos.buddyboss.com/wp-json/buddyboss/v1/groups/3"
+            }
+          ]
+        }
+      }
+    ],
+    "comment_upload_document": false,
+    "_links": {
+      "self": [
+        {
+          "href": "https://online-communities.demos.buddyboss.com/wp-json/buddyboss/v1/activity/194559"
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://online-communities.demos.buddyboss.com/wp-json/buddyboss/v1/activity/"
+        }
+      ],
+      "user": [
+        {
+          "embeddable": true,
+          "href": "https://online-communities.demos.buddyboss.com/wp-json/buddyboss/v1/members/18"
+        }
+      ],
+      "favorite": [
+        {
+          "href": "https://online-communities.demos.buddyboss.com/wp-json/buddyboss/v1/activity/194559/favorite"
+        }
+      ],
+      "group": [
+        {
+          "embeddable": true,
+          "href": "https://online-communities.demos.buddyboss.com/wp-json/buddyboss/v1/groups/3"
+        }
+      ]
+    }
+  }
+]
