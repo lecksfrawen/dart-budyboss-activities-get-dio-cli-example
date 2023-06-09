@@ -27,3 +27,16 @@ Tested on
 $ dart --version
 Dart SDK version: 3.0.4 (stable) (Wed Jun 7 14:55:32 2023 +0000) on "macos_arm64"
 ```
+And created this repo with:
+```shell
+dart create -t console cli
+cd dart-budyboss-activities-get-dio-cli-example/
+git init
+git add .
+git commit -m "feat: first commit"
+gh repo create "dart-budyboss-activities-get-dio-cli-example" --public --push --source .
+dart pub add dio
+dart pub get
+code .
+dart run
+```
