@@ -17,4 +17,5 @@ And while debugging, I get this:
 ## Notes
 Generated DTO with: https://app.quicktype.io/  
 From this URL: https://online-communities.demos.buddyboss.com/wp-json/buddyboss/v1/activity  
-From this online demo: https://online-communities.demos.buddyboss.com   
+From this online demo: https://online-communities.demos.buddyboss.com    
+Looking at this docs: https://www.buddyboss.com/resources/api/  
